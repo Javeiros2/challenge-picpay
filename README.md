@@ -16,9 +16,12 @@ Requisitos:
 - Este serviço deve ser RESTFul.
 
 # Arquitetura Cloud
-![3291fd73-7c53-4ce7-93b3-716ad67a4819](https://github.com/Javeiros2/challenge-picpay/assets/157650513/4d070d48-984c-4df7-8b20-1a5f16a18a33)
+![image](https://github.com/AlexandreAlvesDeCarvalho2/challenge-picpay/assets/58278707/c74cc426-47a4-49d4-932a-df1bf6b321c9)
+
 
 # Arquitetura BackEnd
+![image](https://github.com/AlexandreAlvesDeCarvalho2/challenge-picpay/assets/58278707/4c0685b3-01ef-4ba2-9078-7bcfa1e09aee)
+
 
 # Diagrama de classes
 
